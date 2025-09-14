@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105116062833",
+    "project_id": "check-in-tracker",
+    "storage_bucket": "check-in-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105116062833:android:36bc90fb23d87b78c877d0",
+        "android_client_info": {
+          "package_name": "com.example.check_in_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUOpaeLFGXNfCe1zDVu-ytjjM0eJ2csw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
